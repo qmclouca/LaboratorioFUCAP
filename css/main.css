@@ -75,8 +75,8 @@ textarea {resize: vertical;}
    ========================================================================== */
 :root{
   --main-background: #133461;
-  --main-fonts-color: rgb(255, 255, 255);
-  --main-decor-color: #0a5401;
+  --main-fonts-color: rgb(0, 0, 0);
+  --main-decor-color: #ffffff;
   --main-header-background:#000000;
   --main-font-family: 'Poppins', sans-serif;
 }
@@ -304,20 +304,17 @@ h3{
 }
 
 .card img{
-  width: 85%;
+  width: 97%;
   height:70%;
-  /*border-top-left-radius: 2em 0.5em;
-  border-top-right-radius: 1em 3em;
-  border-bottom-right-radius: 4em 0.5em;
-  border-bottom-left-radius: 1em 3em;*/
-  alignment: center;
-  border-radius:10px 10px 10px 10px;
+  align-content: center;
+  border-radius:15px 15px 15px 15px;
 }
 
 .card .work-content{
   text-align: center;
   padding: 5px 5px;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: bold;
   color: var(--main-fonts-color);
   font-family: var(--main-font-family);
   cursor: pointer;
@@ -332,7 +329,7 @@ h3{
 }
 
 .card:hover{
-  box-shadow: 0 0 1.5rem gray;
+  box-shadow: 0 0 2rem #070ae3;
 }
 
 /*──────────────────

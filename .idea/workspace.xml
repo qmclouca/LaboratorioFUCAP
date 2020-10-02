@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e334e997-6f03-4b32-b850-bd10e48378fd" name="Default Changelist" comment="" />
+    <list default="true" id="e334e997-6f03-4b32-b850-bd10e48378fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsVirtuais.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPCivil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +18,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iJhXNrd88GM9Mk7cefU9AUJccF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -45,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601631649856</updated>
-      <workItem from="1601631654607" duration="5304000" />
+      <workItem from="1601631654607" duration="9461000" />
     </task>
     <servers />
   </component>
@@ -53,6 +68,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601649797319">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601649797319" />
+    <state x="832" y="422" width="615" height="205" key="Github.ShareDialog" timestamp="1601649056318">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="422" width="615" height="205" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601649056318" />
+    <state x="732" y="229" key="Github.UntrackedFilesDialog" timestamp="1601649083815">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="732" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601649083815" />
     <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1601632227612">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
